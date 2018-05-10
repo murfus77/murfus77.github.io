@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    font-family: fantasy;
+}
+
+.hero {
+    background-position: center;
+    background-image: url("Hero.jpeg");
+    background-size: cover;
+    height: 100%;
+    
+}
+
+h1 {
+    color: rgb(139, 168, 219);
+}
+
+.btn-success {
+    background-color: rgb(86, 121, 187);
+}
+
+.btn-success:hover {
+    background-color: rgb(123, 156, 218);
+}
